@@ -1,0 +1,1 @@
+print("wo  shi  b")
